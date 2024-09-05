@@ -9,7 +9,7 @@
 - 📚 Interested in Software Engineering and DevOps
 - 👨🏽‍💻 I am currently working as a senior backend developer
 - 📫 You can reach me by:<br><br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/mohsen-haghgoo/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-haghgoo/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/mohsenhaghgoo)
 
 
