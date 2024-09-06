@@ -13,7 +13,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/mohsenhaghgoo)
 
 
-<h2 align="center">
+<h2>
   🔨 Languages and Tools<br><br>
 </h2>
 
