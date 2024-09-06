@@ -13,18 +13,18 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/mohsenhaghgoo)
 
 
-<h2>
+<h2 align="center">
   🔨 Languages and Tools<br><br>
 </h2>
 
-<h3>
+<h3 align="center">
   Langugages
 </h3>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=golang,php,py,js,html,css,nodejs,lua,bash,cs&perline=5" /><br>
 </p>
 
-<h3>
+<h3 align="center">
   Frameworks
 </h3>
 <p align="center">
@@ -32,7 +32,7 @@
   <a href="https://echo.labstack.com"><img height="40" src="https://cdn.labstack.com/images/echo-logo.svg"></a><br>
 </p>
 
-<h3>
+<h3 align="center">
   Tools
 </h3>
 <p align="center">
@@ -40,8 +40,8 @@
 </p>
 
 
-<h3>
-  DAtabase
+<h3 align="center">
+  Database
 </h3>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&perline=5" /><br>
